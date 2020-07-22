@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-<!--
-**tinazhouhui/tinazhouhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: tinazhouhui](https://img.shields.io/badge/-tinazhouhui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tinazhouhui/)](https://www.linkedin.com/in/tinazhouhui/)
+[![GitHub Tina](https://img.shields.io/github/followers/tinazhouhui?label=follow&style=social)](https://github.com/tinazhouhui)
 
 Here are some ideas to get you started:
 
