@@ -6,7 +6,7 @@ I am a junior Python developer who has just started her development journey. I a
 [![GitHub Tina](https://img.shields.io/github/followers/tinazhouhui?label=follow&style=social)](https://github.com/tinazhouhui)
 
 ### Currently, I am working on my pet project 👉 [eScootie](http://escootie.net/) 🛴👈 (Coming soon!)
-Being an electrict scooter rider myself, I know how annoying cobblestones can be (they already cost me two mudguards...😔). This app is a community driven route planner (I need minions to input data 😏), that would avoid the mudguard killers. 
+Being an electric scooter rider myself, I know how annoying cobblestones can be (they already cost me two mudguards...😔). This app is a community driven route planner (I need minions to input data 😏), that would avoid these mudguard killers. 
 
 #### Development:
 - Frontend running on javascript and react
