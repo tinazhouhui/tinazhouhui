@@ -1,6 +1,6 @@
 ## Hi, I am Tina
 
-I am a junior Python developer who has just started her development journey. I am at that awkward position where I understand a good IT meme and can appreciate a simple answer on Stack Overflow. 
+I am a junior Python developer who has just started her development journey. I am at that awkward position where I understand a good IT meme and can appreciate a simple answer on Stack Overflow but I am still baffled with the sheer amount of libraries there are for everything...
 
 [![Linkedin: Tina_Zhou_Hui](https://img.shields.io/badge/-Tina_Zhou_Hui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tinazhouhui/)](https://www.linkedin.com/in/tinazhouhui/)
 [![GitHub Tina](https://img.shields.io/github/followers/tinazhouhui?label=follow&style=social)](https://github.com/tinazhouhui)
