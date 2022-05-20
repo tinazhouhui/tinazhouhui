@@ -6,19 +6,14 @@ I am a Fullstack developer 👩‍💻 who likes to code in Javascript, enjoys t
 [![GitHub Tina](https://img.shields.io/github/followers/tinazhouhui?label=follow&style=social)](https://github.com/tinazhouhui)
 
 ## Technologies I love working with
-| Web | Data | Design |
-| :--- | :--- | :--- |
-| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  `Python` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />  `Illustrator` |
-| | |
-| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  `React` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />  `Pandas` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  `Figma` |
-| | |
-| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />  `Express` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  `Postgres` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />  `Photoshop` |
-| | |
-| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />  `D3` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />  `Sequelize` |  |
-| | |
-| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />  `Websockets` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  `Mongodb` | |
-| | |
-| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />  `Flask` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />  `Redis` | |
+| Frontend | Backend | Data | DevOps | Design | 
+| :--- | :--- | :--- | :--- | :--- |
+| <img width="16px" src="https://the-guild.dev//blog-assets/nodejs-esm/nodejs_logo.png" />  `NodeJS` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  `React` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  `PostgreSQL, MSSQL` | <img width="16px" src="https://rtask.thinkr.fr/wp-content/uploads/moby-logo.png" />  `Docker` | <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" />  `Lambda` |
+| | | | |
+| <img width="16px" src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.jpg" />  `Express` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  `MongoDB` | <img width="16px" src="https://archive.org/download/github.com-actions-starter-workflows_-_2020-01-25_22-21-15/cover.jpg" />  `Github Actions` | <img width="16px" src="https://hackster.imgix.net/uploads/attachments/812417/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6177737365727669636562726f6b65722f69636f6e732f416d617a6f6e52656b6f676e6974696f6e5f4c415247452e706e67.png?auto=compress%2Cformat&w=400&h=300&fit=max" />  `Rekognition` |
+| | | | |
+| <img width="16px" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" />  `Flask` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  `Angular` | <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />  `DynamoDB` | <img width="16px" src="https://cdn.freebiesupply.com/logos/large/2x/aws-cloudformation-logo-png-transparent.png" />  `CloudFormation` | <img width="16px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQV2FLjhIZLntvJwSJTeqL8u7Ao0rBn56XsYBACF080iHw7JwgTYxC4itT3YrO4qTopI&usqp=CAU" />  `AppSync` |
+
 
 
 # Pet projects 💪
