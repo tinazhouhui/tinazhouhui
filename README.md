@@ -37,7 +37,7 @@ Infrastructure: <img src="https://pbs.twimg.com/profile_images/14737565328272465
 #### 👉 [🖥️ demo](https://www.startbite.me) [🗒️ code](https://github.com/snake-biteme) 
 BiteMe is an online multiplayer snake game played on a shared screen. Enjoy some competitive fun with your friends by plaing this all time classic! Simply scan the QR code and control the snake on the screen using your phone.
 
-The interesting part about this app is that it has no BE in the traditional sense, but leverages AWS AppSync, a fully managed GraphQL server to handle all the connections. Under the hood, it uses websocket technology, which gives the app the real time feel. I had a blast developing a game and there were many algorithmical challenges along the way. 
+The interesting part about this app is that it has no BE in the traditional sense, but leverages AWS AppSync, a fully managed GraphQL server to handle all the connections. Under the hood, it uses websocket technology, which gives the app the real time feel. I had a blast developing a game even with all the algorithmical challenges along the way. 
 
 #### Tech stack:
 Gamescreen and Controller FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="react"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="24px" title="Typescript" /> &nbsp; &nbsp; &nbsp; 
