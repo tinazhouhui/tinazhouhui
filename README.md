@@ -8,18 +8,18 @@ I am a Fullstack developer 👩‍💻 who likes to code in Javascript, enjoys t
 
 ## Pet projects 💪
 
-### 🥋 ClassDojo  [💻](www.staging.classdojo.ninja) [<>](https://github.com/class-dojo) 
+### 🥋 ClassDojo  [www](www.staging.classdojo.ninja) [repo](https://github.com/class-dojo) 
 ClassDojo empowers teachers in virtual classrooms with a selection of tools to gauge student interest and emotional response during lectures. The app leverages Computer Vision to detect emotions of students and extracts information such as mood and attention, that are all displayed in a set of interactive charts, all conveniently fitted into a comprehensive dashboard.
 
 
-### 🐍 BiteMe  [💻](www.startbite.me) [<>](https://github.com/snake-biteme) 
+### 🐍 BiteMe  [www](www.startbite.me) [repo](https://github.com/snake-biteme) 
 BiteMe is an online multiplayer snake game played on a shared screen. Enjoy some competitive fun with your friends by plaing this all time classic! Simply scan the QR code and control the snake on the screen using your phone.
 
 #### Tech stack:
 - FE Gamescreen and phone controller: React, Typescript
 - BE leveragin AWS AppSync (GraphQL managed service)
 
-### 🛴 eScootie  [💻](http://escootie.net/)
+### 🛴 eScootie  [www](http://escootie.net/)
 Being an electric scooter rider myself, I know how annoying cobblestones can be (they already cost me two mudguards...😔). This app is a community driven route planner (I need minions to input data 😏), that would avoid these mudguard killers. 
 
 #### Tech stack:
