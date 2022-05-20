@@ -17,9 +17,9 @@ I am a Fullstack developer prefering the backend side 👩‍💻 who likes to c
 
 # Pet projects 💪
 These projects are a good representation of some principles that I believe in:
-- Serverless first - If serverless is not possible or suitable, go with docker. I strongly believe that cloud with its benefits is how modern applications should be built so in these projects I am trying to learn different architectures and experience various approches. 
-- Don't reinvent the wheel - If the service exists, use it. That way, all my focus can be on the added value and business logic.
-- Ship features fast, get feedback faster - linked to developer experience, each project adapting the best practices for having a staging and production for integration testing. Thanks to Infrastructure as code, deployment was never easier.
+- **Serverless first** - If serverless is not possible or suitable, go with docker. I strongly believe that cloud with its benefits is how modern applications should be built so in these projects I am trying to learn different architectures and experience various approches. 
+- **Don't reinvent the wheel** - If the service exists, use it. That way, all my focus can be on the added value and business logic.
+- **Ship features fast, get feedback faster** - linked to developer experience, each project adapting the best practices for having a staging and production for integration testing. Thanks to Infrastructure as code, deployment was never easier.
 
 ## 🥋 ClassDojo  
 #### 👉 [🖥️ demo](https://www.staging.classdojo.ninja) [🗒️ code](https://github.com/class-dojo) 
