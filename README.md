@@ -48,7 +48,7 @@ Infrastructure: <img src="https://pbs.twimg.com/profile_images/14737565328272465
 #### 👉 [🖥️ Demo](https://escootie.net/)
 Being an electric scooter rider myself, I know how annoying cobblestones can be (they already cost me two mudguards...😔). This app is a community driven route planner (I need minions to input data 😏), that would avoid these mudguard killers. 
 
-The challenge here was to migrate from a MySQL to a NoSQL DynamoDB, which led to an 80% decrease in operational costs. In addition, the integration with [mapy.cz api](https://api.mapy.cz/) was a bit painful as the documentation was sometimes outdated. 
+The challenge here was to migrate from a MySQL database to a NoSQL DynamoDB, which led to an 80% decrease in operational costs. In addition, the integration with [mapy.cz api](https://api.mapy.cz/) was a bit painful as the documentation was sometimes outdated. 
 
 #### Tech stack:
 FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="react"/> <img src="https://cdn.freebiesupply.com/logos/large/2x/flow-logo-png-transparent.png"  height="24px" title="flow"/> &nbsp; &nbsp; &nbsp; 
