@@ -22,7 +22,7 @@ These projects are a good representation of some principles that I believe in:
 - **Ship features fast, get feedback faster** - linked to developer experience, each project adapting the best practices for having a staging and production for integration testing. Thanks to Infrastructure as code, deployment was never easier.
 
 ## 🥋 ClassDojo  
-#### 👉 [🖥️ demo](https://www.staging.classdojo.ninja) [🗒️ code](https://github.com/class-dojo) 
+#### 👉 [🖥️ Demo](https://www.staging.classdojo.ninja) [🗒️ Code](https://github.com/class-dojo) 
 ClassDojo empowers teachers in virtual classrooms with a selection of tools to gauge student interest and emotional response during lectures. The app leverages Computer Vision to detect emotions of students and extracts information such as mood and attention, that are all displayed in a set of interactive charts, all conveniently fitted into a comprehensive dashboard.
 
 Technically the project is interesting by completely outsourcing the ML and CV capabilities to AWS Rekognition. This allowed us to really focus on what made our product unique - the charts, how we processed the data and the architecture of the app. In addition, we use [node-dependency-injection](https://www.npmjs.com/package/node-dependency-injection) in BE to nicely standardize our components and services, thanks to which we were able to achieve more than 70% of test coverage.
@@ -34,7 +34,7 @@ DevOps: <img src="https://archive.org/download/github.com-actions-starter-workfl
 Infrastructure: <img src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" width="24px" height="24px" title="aws"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" height="24px" title="lambda" /> <img src="https://hackster.imgix.net/uploads/attachments/812417/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6177737365727669636562726f6b65722f69636f6e732f416d617a6f6e52656b6f676e6974696f6e5f4c415247452e706e67.png?auto=compress%2Cformat&w=400&h=300&fit=max" height="24px" title="AWS Rekognition"/> (AWS Rekognition) &nbsp; &nbsp; &nbsp; 
 
 ## 🐍 BiteMe 
-#### 👉 [🖥️ demo](https://gamescreen.startbite.me) [🗒️ code](https://github.com/snake-biteme) 
+#### 👉 [🖥️ Demo](https://gamescreen.startbite.me) [🗒️ Code](https://github.com/snake-biteme) 
 BiteMe is an online multiplayer snake game played on a shared screen. Enjoy some competitive fun with your friends by plaing this all time classic! Simply scan the QR code and control the snake on the screen using your phone.
 
 The interesting part about this app is that it has no BE in the traditional sense, but leverages AWS AppSync, a fully managed GraphQL server to handle all the connections. Under the hood, it uses websocket technology, which gives the app the real time feel. I had a blast developing a game even with all the algorithmical challenges along the way. 
@@ -45,10 +45,10 @@ DevOps: <img src="https://archive.org/download/github.com-actions-starter-workfl
 Infrastructure: <img src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" width="24px" height="24px" title="aws"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQV2FLjhIZLntvJwSJTeqL8u7Ao0rBn56XsYBACF080iHw7JwgTYxC4itT3YrO4qTopI&usqp=CAU" width="24px" title="AppSync"/> (AWS AppSync)
 
 ## 🛴 eScootie  
-#### 👉 [🖥️ demo](https://escootie.net/)
+#### 👉 [🖥️ Demo](https://escootie.net/)
 Being an electric scooter rider myself, I know how annoying cobblestones can be (they already cost me two mudguards...😔). This app is a community driven route planner (I need minions to input data 😏), that would avoid these mudguard killers. 
 
-The challenge here was to migrate from a MySQL to a NO SQL DynamoDB, which led to an 80% decrease in operational costs. In addition, the integration with [mapy.cz api](https://api.mapy.cz/) was a bit painful as the documentation was sometimes outdated. 
+The challenge here was to migrate from a MySQL to a NoSQL DynamoDB, which led to an 80% decrease in operational costs. In addition, the integration with [mapy.cz api](https://api.mapy.cz/) was a bit painful as the documentation was sometimes outdated. 
 
 #### Tech stack:
 FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="react"/> <img src="https://cdn.freebiesupply.com/logos/large/2x/flow-logo-png-transparent.png"  height="24px" title="flow"/> &nbsp; &nbsp; &nbsp; 
