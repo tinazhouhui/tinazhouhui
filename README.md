@@ -13,6 +13,9 @@ I am a Fullstack developer prefering the backend side 👩‍💻 who likes to c
 | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  `Python, Flask` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  `Angular` | <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />  `DynamoDB` | <img width="16px" src="https://cdn.freebiesupply.com/logos/large/2x/aws-cloudformation-logo-png-transparent.png" />  `CloudFormation` | <img width="16px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQV2FLjhIZLntvJwSJTeqL8u7Ao0rBn56XsYBACF080iHw7JwgTYxC4itT3YrO4qTopI&usqp=CAU" />  `AppSync` | <img width="16px" src="https://cdn.worldvectorlogo.com/logos/openapi-1.svg" />  `OpenAPI` |
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinazhouhui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github statistics](https://github-readme-stats.vercel.app/api?username=tinazhouhui&hide=stars&show_icons=true)
+
 # Pet projects 💪
 These projects are a good representation of some principles that I believe in:
 - **Serverless first** - If serverless is not possible or suitable, go with docker. I strongly believe that cloud with its benefits is how modern applications should be built so in these projects I am trying to learn different architectures and experience various approches. 
