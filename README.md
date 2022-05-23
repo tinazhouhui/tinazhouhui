@@ -42,7 +42,7 @@ The interesting part about this app is that it has no BE in the traditional sens
 
 #### Tech stack:
 Gamescreen and Controller FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="react"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="24px" title="Typescript" /> &nbsp; &nbsp; &nbsp; 
-DevOps: <img src="https://archive.org/download/github.com-actions-starter-workflows_-_2020-01-25_22-21-15/cover.jpg" width="24px" title="Github Actions" /> &nbsp; &nbsp; &nbsp; 
+DevOps: <img src="https://archive.org/download/github.com-actions-starter-workflows_-_2020-01-25_22-21-15/cover.jpg" width="24px" title="Github Actions" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="24px" title="Gulp" /> &nbsp; &nbsp; &nbsp; 
 Infrastructure: <img src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" width="24px" height="24px" title="aws"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQV2FLjhIZLntvJwSJTeqL8u7Ao0rBn56XsYBACF080iHw7JwgTYxC4itT3YrO4qTopI&usqp=CAU" width="24px" title="AppSync"/> (AWS AppSync)
 
 ## 🛴 eScootie  
