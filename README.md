@@ -23,7 +23,7 @@ These projects are a good representation of some principles that I believe in:
 - **Ship features fast, get feedback faster** - linked to developer experience, each project adapting the best practices for having a staging and production for integration testing. Thanks to Infrastructure as code, deployment was never easier.
 
 ## 🥋 ClassDojo  
-#### 👉 [🖥️ Demo](https://www.staging.classdojo.ninja) [🗒️ Code](https://github.com/class-dojo) 
+#### 👉 [🖥️ Demo](https://www.classdojo.ninja) [🗒️ Code](https://github.com/class-dojo) 
 ClassDojo empowers teachers in virtual classrooms with a selection of tools to gauge student interest and emotional response during lectures. The app leverages Computer Vision to detect emotions of students and extracts information such as mood and attention, that are all displayed in a set of interactive charts, all conveniently fitted into a comprehensive dashboard.
 
 Technically the project is interesting by completely outsourcing the ML and CV capabilities to AWS Rekognition. This allowed us to really focus on what made our product unique - the charts, how we processed the data and the architecture of the app. In addition, we use [node-dependency-injection](https://www.npmjs.com/package/node-dependency-injection) in BE to nicely standardize our components and services, thanks to which we were able to achieve more than 70% of test coverage.
