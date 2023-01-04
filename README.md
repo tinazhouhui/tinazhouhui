@@ -28,7 +28,7 @@ Technically the project is interesting by completely outsourcing the ML and CV c
 FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="react"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="24px" title="Typescript" /> &nbsp; &nbsp; &nbsp; 
 BE: <img src="https://the-guild.dev//blog-assets/nodejs-esm/nodejs_logo.png" width="24px" title="node js"/> <img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.jpg" width="24px" title="express" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="24px" title="jest" /> &nbsp; &nbsp; &nbsp; 
 DevOps: <img src="https://archive.org/download/github.com-actions-starter-workflows_-_2020-01-25_22-21-15/cover.jpg" width="24px" title="Github Actions" /> <img src="https://rtask.thinkr.fr/wp-content/uploads/moby-logo.png" height="24px" title="docker" /> &nbsp; &nbsp; &nbsp; 
-Infrastructure: <img src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" width="24px" height="24px" title="aws"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" height="24px" title="lambda" /> <img src="https://hackster.imgix.net/uploads/attachments/812417/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6177737365727669636562726f6b65722f69636f6e732f416d617a6f6e52656b6f676e6974696f6e5f4c415247452e706e67.png?auto=compress%2Cformat&w=400&h=300&fit=max" height="24px" title="AWS Rekognition"/> (AWS Rekognition) &nbsp; &nbsp; &nbsp; 
+Infrastructure: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="24px" height="24px" title="aws"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" height="24px" title="lambda" /> <img src="https://hackster.imgix.net/uploads/attachments/812417/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6177737365727669636562726f6b65722f69636f6e732f416d617a6f6e52656b6f676e6974696f6e5f4c415247452e706e67.png?auto=compress%2Cformat&w=400&h=300&fit=max" height="24px" title="AWS Rekognition"/> (AWS Rekognition) &nbsp; &nbsp; &nbsp; 
 
 ## 🐍 BiteMe 
 #### 👉 [🖥️ Demo](https://gamescreen.startbite.me) [🗒️ Code](https://github.com/snake-biteme) 
@@ -39,7 +39,7 @@ The interesting part about this app is that it has no BE in the traditional sens
 #### Tech stack:
 Gamescreen and Controller FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="react"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="24px" title="Typescript" /> &nbsp; &nbsp; &nbsp; 
 DevOps: <img src="https://archive.org/download/github.com-actions-starter-workflows_-_2020-01-25_22-21-15/cover.jpg" width="24px" title="Github Actions" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="24px" title="Gulp" /> &nbsp; &nbsp; &nbsp; 
-Infrastructure: <img src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" width="24px" height="24px" title="aws"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQV2FLjhIZLntvJwSJTeqL8u7Ao0rBn56XsYBACF080iHw7JwgTYxC4itT3YrO4qTopI&usqp=CAU" width="24px" title="AppSync"/> (AWS AppSync)
+Infrastructure: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="24px" height="24px" title="aws"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQV2FLjhIZLntvJwSJTeqL8u7Ao0rBn56XsYBACF080iHw7JwgTYxC4itT3YrO4qTopI&usqp=CAU" width="24px" title="AppSync"/> (AWS AppSync)
 
 ## 🛴 eScootie  
 #### 👉 [🖥️ Demo](https://escootie.net/)
@@ -54,7 +54,7 @@ BE: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-l
 &nbsp; &nbsp; &nbsp; 
 DB: <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" width="24px" title="Dynamo DB" /> (AWS Dynamo DB) &nbsp; &nbsp; &nbsp; 
 DevOps: <img src="https://archive.org/download/github.com-actions-starter-workflows_-_2020-01-25_22-21-15/cover.jpg" width="24px" title="Github Actions"/> <img src="https://rtask.thinkr.fr/wp-content/uploads/moby-logo.png" height="24px" title="docker" /> &nbsp; &nbsp; &nbsp; 
-Infrastructure: <img src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" width="24px" height="24px" title="aws"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" height="24px" title="lambda" />  &nbsp; &nbsp; &nbsp; 
+Infrastructure: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="24px" height="24px" title="aws"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" height="24px" title="lambda" />  &nbsp; &nbsp; &nbsp; 
 
 
 ## ✍️ Articles
