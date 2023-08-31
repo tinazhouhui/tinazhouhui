@@ -31,7 +31,7 @@ DevOps: <img src="https://archive.org/download/github.com-actions-starter-workfl
 Infrastructure: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="24px" height="24px" title="aws"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" height="24px" title="lambda" /> <img src="https://hackster.imgix.net/uploads/attachments/812417/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6177737365727669636562726f6b65722f69636f6e732f416d617a6f6e52656b6f676e6974696f6e5f4c415247452e706e67.png?auto=compress%2Cformat&w=400&h=300&fit=max" height="24px" title="AWS Rekognition"/> (AWS Rekognition) &nbsp; &nbsp; &nbsp; 
 
 ## 🐍 BiteMe 
-#### 👉 [🖥️ Demo](https://gamescreen.startbite.me) [🗒️ Code](https://github.com/snake-biteme) 
+#### 👉 [🖥️ Demo](https://www.startbite.me) [🗒️ Code](https://github.com/snake-biteme) 
 BiteMe is an online multiplayer snake game played on a shared screen. Enjoy some competitive fun with your friends by playing this all-time classic! Simply scan the QR code and control the snake on the screen using your phone.
 
 The interesting part about this app is that it has no BE in the traditional sense, but leverages AWS AppSync, a fully managed GraphQL server to handle all the connections. Under the hood, it uses WebSocket technology, which gives the app a real-time feel. I had a blast developing a game even with all the algorithmic challenges along the way.
