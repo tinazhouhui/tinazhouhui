@@ -14,21 +14,9 @@ I am a Fullstack developer preferring the backend side 👩‍💻 who likes to 
 
 # Pet projects 💪
 These projects are a good representation of some principles that I believe in:
-- **Serverless first** - If serverless is not possible or suitable, go with docker. I strongly believe that cloud with its benefits is how modern applications should be built so in these projects I am trying to learn different architectures and experience various approches. 
+- **Serverless first** - If serverless is not possible or suitable, go with docker. I strongly believe that the cloud with its benefits is how modern applications should be built so in these projects I am trying to learn different architectures and experience various approaches. 
 - **Don't reinvent the wheel** - If the service exists, use it. That way, all my focus can be on the added value and business logic.
 - **Ship features fast, get feedback faster** - linked to developer experience, each project adapting the best practices for having a staging and production for integration testing. Thanks to Infrastructure as code, deployment was never easier.
-
-## 🥋 ClassDojo  
-#### 👉 [🖥️ Demo](https://www.classdojo.ninja) [🗒️ Code](https://github.com/class-dojo) 
-ClassDojo empowers teachers in virtual classrooms with a selection of tools to gauge student interest and emotional response during lectures. The app leverages Computer Vision to detect emotions of students and extracts information such as mood and attention, that are all displayed in a set of interactive charts, all conveniently fitted into a comprehensive dashboard.
-
-Technically the project is interesting by completely outsourcing the ML and CV capabilities to AWS Rekognition. This allowed us to really focus on what made our product unique - the charts, how we processed the data and the architecture of the app. In addition, we use [node-dependency-injection](https://www.npmjs.com/package/node-dependency-injection) in BE to nicely standardize our components and services, thanks to which we were able to achieve more than 70% of test coverage.
-
-### Tech stack:
-FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="react"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="24px" title="Typescript" /> &nbsp; &nbsp; &nbsp; 
-BE: <img src="https://the-guild.dev//blog-assets/nodejs-esm/nodejs_logo.png" width="24px" title="node js"/> <img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.jpg" width="24px" title="express" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="24px" title="jest" /> &nbsp; &nbsp; &nbsp; 
-DevOps: <img src="https://archive.org/download/github.com-actions-starter-workflows_-_2020-01-25_22-21-15/cover.jpg" width="24px" title="Github Actions" /> <img src="https://rtask.thinkr.fr/wp-content/uploads/moby-logo.png" height="24px" title="docker" /> &nbsp; &nbsp; &nbsp; 
-Infrastructure: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="24px" height="24px" title="aws"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" height="24px" title="lambda" /> <img src="https://hackster.imgix.net/uploads/attachments/812417/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6177737365727669636562726f6b65722f69636f6e732f416d617a6f6e52656b6f676e6974696f6e5f4c415247452e706e67.png?auto=compress%2Cformat&w=400&h=300&fit=max" height="24px" title="AWS Rekognition"/> (AWS Rekognition) &nbsp; &nbsp; &nbsp; 
 
 ## 🐍 BiteMe 
 #### 👉 [🖥️ Demo](https://www.startbite.me) [🗒️ Code](https://github.com/snake-biteme) 
@@ -37,13 +25,13 @@ BiteMe is an online multiplayer snake game played on a shared screen. Enjoy some
 The interesting part about this app is that it has no BE in the traditional sense, but leverages AWS AppSync, a fully managed GraphQL server to handle all the connections. Under the hood, it uses WebSocket technology, which gives the app a real-time feel. I had a blast developing a game even with all the algorithmic challenges along the way.
 
 #### Tech stack:
-Gamescreen and Controller FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="react"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="24px" title="Typescript" /> &nbsp; &nbsp; &nbsp; 
+Game screen and Controller FE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24px" title="react"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="24px" title="Typescript" /> &nbsp; &nbsp; &nbsp; 
 DevOps: <img src="https://archive.org/download/github.com-actions-starter-workflows_-_2020-01-25_22-21-15/cover.jpg" width="24px" title="Github Actions" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="24px" title="Gulp" /> &nbsp; &nbsp; &nbsp; 
 Infrastructure: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="24px" height="24px" title="aws"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQV2FLjhIZLntvJwSJTeqL8u7Ao0rBn56XsYBACF080iHw7JwgTYxC4itT3YrO4qTopI&usqp=CAU" width="24px" title="AppSync"/> (AWS AppSync)
 
 ## 🛴 eScootie  
 #### 👉 [🖥️ Demo](https://escootie.net/)
-Being an electric scooter rider myself, I know how annoying cobblestones can be (they already cost me two mudguards...😔). This app is a community driven route planner (I need minions to input data 😏), that would avoid these mudguard killers. 
+Being an electric scooter rider myself, I know how annoying cobblestones can be (they already cost me two mudguards...😔). This app is a community-driven route planner (I need minions to input data 😏), that would avoid these mudguard killers. 
 
 The challenge here was to migrate from a MySQL RDS database to a NoSQL DynamoDB, which led to an 80% decrease in operational costs. In addition, the integration with [mapy.cz api](https://api.mapy.cz/) was a bit painful as the documentation was sometimes outdated. 
 
@@ -58,7 +46,7 @@ Infrastructure: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ama
 
 
 ## ✍️ Articles
-### 👁️ I have also written few articles on the basic concepts of OpenCV
+### 👁️ I have also written a few articles on the basic concepts of OpenCV
 - [Convolution](https://dev.to/tinazhouhui/discovering-open-cv-using-python-2iak)
 - [Edge Detection](https://dev.to/tinazhouhui/discovering-opencv-using-python-edge-detection-185g)
 - [Gamma corrrection](https://dev.to/tinazhouhui/discovering-opencv-with-python-gamma-correction-3cnh)
