@@ -1,6 +1,6 @@
 # Hi, I am Tina 👋
 
-I am a Fullstack developer preferring the backend side 👩‍💻 who likes to code in Typescript, enjoys talking about serverless architecture and is searching for the perfect CI/CD pipeline. When I am not in front of a computer, you can find me exploring food markets 🥡, going up 🥾 or down 🏂 mountains or struggling with fingerpicking 🎸.
+I am a backend developer with focus on infrastructure 👩‍💻 who likes to code in Typescript, enjoys talking about serverless architecture and is searching for the perfect CI/CD pipeline. When I am not in front of a computer, you can find me exploring food markets 🥡, going up 🥾 or down 🏂 mountains or struggling with fingerpicking 🎸.
 
 [![Linkedin: Tina_Zhou_Hui](https://img.shields.io/badge/-Tina_Zhou_Hui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tinazhouhui/)](https://www.linkedin.com/in/tinazhouhui/)
 [![GitHub Tina](https://img.shields.io/github/followers/tinazhouhui?label=follow&style=social)](https://github.com/tinazhouhui)
